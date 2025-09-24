@@ -3,7 +3,7 @@
 
 Welcome to my **C Programming Tutorial Repository**  
 This repo contains my notes, code examples, and practice exercises while learning C.
-
+C is very very important for the Unix system OS
 ---
 
 ## 📂 Structure
