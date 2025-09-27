@@ -38,3 +38,11 @@ Sometimes programmers name variables _ to signal “ignore this”.
 | `double`       | **8 bytes = 64 bits**                      | 15–16 decimal digits precision               | `%lf`            |
 | `long double`  | **10, 12, or 16 bytes** (system-dependent) | More precision than double                   | `%Lf`            |
 
+
+What is a Keyword?
+
+        A keyword in C is a reserved word that has a special meaning to the compiler.
+        
+        They are used to define the structure of a C program.
+        
+        You cannot use them as variable names, function names, or identifiers
