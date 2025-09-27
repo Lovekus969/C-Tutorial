@@ -5,7 +5,18 @@
 Rules:
 
     Must start with a letter or underscore (_name, age ✅ but 1num ❌).
-    
     Case-sensitive (Age ≠ age).
-    
     Must be declared before use.
+
+2. Leading underscore
+
+C allows variables/functions starting with _, but Names beginning with _ followed by an uppercase letter or another _ are reserved for the implementation (compiler, standard library).
+
+Example: _IO_FILE is used internally by < stdio.h>
+
+So, as a best practice, don’t start your own identifiers with _, to avoid conflicts.
+
+🔹 3. Used in unused variables
+
+Sometimes programmers name variables _ to signal “ignore this”.
+(Not standard in plain C, but common in C++/POSIX environments.)
