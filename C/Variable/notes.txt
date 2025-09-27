@@ -20,3 +20,7 @@ So, as a best practice, don’t start your own identifiers with _, to avoid conf
 
 Sometimes programmers name variables _ to signal “ignore this”.
 (Not standard in plain C, but common in C++/POSIX environments.)
+
+
+
+                                                    Common Data Types in C and Memory Usage
