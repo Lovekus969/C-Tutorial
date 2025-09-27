@@ -1,0 +1,11 @@
+1. Variables in C
+
+    A variable is a name given to a memory location that stores data.
+
+Rules:
+
+    Must start with a letter or underscore (_name, age ✅ but 1num ❌).
+    
+    Case-sensitive (Age ≠ age).
+    
+    Must be declared before use.
