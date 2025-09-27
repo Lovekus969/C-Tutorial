@@ -46,3 +46,19 @@ What is a Keyword?
         They are used to define the structure of a C program.
         
         You cannot use them as variable names, function names, or identifiers
+
+
+
+
+
+                                    List of C Keywords (ANSI C / C89 standard, 32 keywords)
+
+
+                                        auto       break     case        char       const
+                                        continue   default   do          double     else
+                                        enum       extern    float       for        goto
+                                        if         int       long        register   return
+                                        short      signed    sizeof      static     struct
+                                        switch     typedef   union       unsigned   void
+                                        volatile   while
+
