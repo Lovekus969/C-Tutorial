@@ -1,0 +1,7 @@
+What is a Pointer?
+
+    A pointer is a variable that stores the memory address of another variable.
+    
+    Normal variable → stores a value.
+    
+    Pointer variable → stores the address of a value.
